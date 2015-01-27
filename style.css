@@ -1,8 +1,17 @@
+
+
  body{ 
  background-color:#290323;
  color:white;
  font-family:sans-serif;
  }  
+ 
+ nav a {
+   text-decoration:none;
+   color:#F0FFEC;
+   background color:200B45;
+  
+ }
  
  h2{
   color:#A1C2D9;
