@@ -45,7 +45,7 @@ p{
   width:200px;
   display:inline-block;
   height:50px;
-
+  transition:1s all;
 }
 
 p:hover{
