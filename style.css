@@ -45,6 +45,7 @@ p{
   width:200px;
   display:inline-block;
   height:50px;
+
 }
   section{
    text-align: center;
@@ -70,5 +71,6 @@ p{
    border:none;
    border-radius:3px;
    margin-top:40px;
+   opacity:0.8;
   }
 
