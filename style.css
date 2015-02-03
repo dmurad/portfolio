@@ -47,6 +47,14 @@ p{
   
   }
   
+  
+  #features{
+  background-color:lightblue; 
+  height:250px;
+  
+  }
+
+  
   button {
    background-color:blue;
    color:white;
