@@ -1,0 +1,24 @@
+<!doctype html>
+<html> 
+<head>
+<nav>
+<a href="index.html">Home</a> | <a href="about.html">About</a>
+</nav>
+<h1>Contact Me</h1>
+<p>Email:danafm@mac.com
+<br>
+<p>Phone:650 892 1499
+<br>
+
+<a href="https://twitter.com/dmurad88">
+<img src="https://cdn4.iconfinder.com/data/icons/social-icons-6/40/twitter-32.png">
+</a>
+<a href="https://www.linkedin.com/in/muraddana">
+<img src="https://cdn2.iconfinder.com/data/icons/micon-social-pack/512/linkedin-32.png">
+</a>
+<a href="https://www.facebook.com/dana.murad.14">
+<img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/facebook_circle_gray-32.png">
+</a>
+</body>  
+  
+</html>
