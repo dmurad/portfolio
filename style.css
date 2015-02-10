@@ -53,7 +53,10 @@ margin-top:20px;
 transform:rotate(-7deg);
 }
 
-
+img {
+ height:70px;
+ width:70px;
+}
 
   section{
    text-align: center;
