@@ -90,3 +90,8 @@ transform:rotate(-7deg);
 .menu-selected{
  background-color:white;
 }
+
+table{
+width:1214px; 
+margin:0 auto;
+}
