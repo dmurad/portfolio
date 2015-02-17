@@ -87,3 +87,6 @@ transform:rotate(-7deg);
   text-align: center;
  }
 
+.menu-selected{
+ background-color:white;
+}
