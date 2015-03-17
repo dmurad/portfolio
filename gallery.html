@@ -9,6 +9,8 @@
 <link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
 <link href="css/lightbox.css" rel="stylesheet"/>
 <link href="style.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+		<script type="text/javascript" src="js/modernizr.custom.53451.js"></script>
 
 </head> 
 <body>
@@ -34,8 +36,53 @@
     
  
 </table>
-<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
-<script src="js/lightbox.min.js"></script> 
+
+<section id="dg-container" class="dg-container">
+	<div class="dg-wrapper">
+		<a href="#">
+			<img src="https://farm9.staticflickr.com/8605/16627321941_313225b1f2_c.jpg" alt="image01">
+			<div>http://www.colazionedamichy.it/</div>
+		</a>
+		<a href="#">
+			<img src="https://farm9.staticflickr.com/8562/16008660723_588c2f11cf_c.jpg" alt="image01">
+			<div>http://www.colazionedamichy.it/</div>
+		</a>
+		<a href="#">
+			<img src="https://farm9.staticflickr.com/8617/16421124737_4ccb6ed7ac_c.jpg" alt="image01">
+			<div>http://www.colazionedamichy.it/</div>
+		</a>
+		<a href="#">
+			<img src="https://farm9.staticflickr.com/8666/16421124417_43d8279010_c.jpg" alt="image01">
+			<div>http://www.colazionedamichy.it/</div>
+		</a>
+        
+        <a href="#">
+			<img src="https://farm9.staticflickr.com/8637/16441243048_cfcd5bdb12_c.jpg" alt="image01">
+			<div>http://www.colazionedamichy.it/</div>
+		</a>
+        <a href="#">
+			<img src="https://farm9.staticflickr.com/8674/16441407940_502f124da8_c.jpg" alt="image01">
+			<div>http://www.colazionedamichy.it/</div>
+		</a>
+                      
+	
+    
+    </div>
+	<nav>	
+		<span class="dg-prev"><</span>
+		<span class="dg-next">></span>
+	</nav>
+</section>
+
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+		<script type="text/javascript" src="js/jquery.gallery.js"></script>
+		<script type="text/javascript">
+			$(function() {
+				$('#dg-container').gallery({
+					autoplay	:	true
+				});
+			});
+		</script>
 </body>
 <style>
 
